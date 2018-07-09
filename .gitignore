@@ -1,3 +1,4 @@
+.*
 /testenvironment.properties
 /bin
 /build
@@ -9,15 +10,9 @@
 /ssh.configuration
 /findbugsReport.html
 /lib
-/.settings
-/.project
-/.classpath
-/.factorypath
 /lombok.iml
-/.idea
 *.markdown.html
 /junit*.properties
 /eclipse.location
-/.apt_generated/
 /out
 /website/lombokSupporters
